@@ -1,0 +1,18 @@
+Day 1
+    Basic Fundamentals 
+        Early Idea of the Internet.
+        How world wide web was formed.
+        who launched first website which was open for the public.
+        Modern day website types.
+    Basic Setup for the course
+        VScode https://code.visualstudio.com/ , Git Github (https://git-scm.com/install/windows)
+        Vscode extension:
+            emmet live, Live Server
+            material icon theme    //figma for ui/ux
+    Body of the HTML page 
+    Headdings,p tag 
+
+
+    https://code.visualstudio.com/
+   
+   airteldhir air30424
