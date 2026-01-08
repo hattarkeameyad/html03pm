@@ -11,6 +11,12 @@ Day 1
             material icon theme    //figma for ui/ux
     Body of the HTML page 
     Headdings,p tag 
+    Lists
+    table
+    html:5 
+    Media
+
+
 
 
     https://code.visualstudio.com/
