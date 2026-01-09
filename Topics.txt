@@ -25,6 +25,10 @@ Day 4
 
 
 
+Bonus Topics
+
+    domain name server domain name resolution - 
+    
 
 
     https://code.visualstudio.com/
