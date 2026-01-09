@@ -21,7 +21,7 @@ Day 3  08 Jan
     class and id attribute concept
 Day 4 
     Semantics,block,inline
-    Input types,
+    Input types,forms
 
 
 
