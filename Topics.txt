@@ -1,4 +1,4 @@
-Day 1
+Day 1           05 and 06 jan
     Basic Fundamentals 
         Early Idea of the Internet.
         How world wide web was formed.
@@ -11,10 +11,18 @@ Day 1
             material icon theme    //figma for ui/ux
     Body of the HTML page 
     Headdings,p tag 
-    Lists
-    table
-    html:5 
-    Media
+Day 2    07 Jan
+    Formating tags
+    anchor tag email,tel,
+    Basic git Setup
+Day 3  08 Jan
+    Lists UL,OL,DL
+    TABLES & its symantic
+    class and id attribute concept
+Day 4 
+    Semantics,block,inline
+    Input types,
+
 
 
 
